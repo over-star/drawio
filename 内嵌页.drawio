@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T08:58:37.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="4Hk-_yuex5vLM-P0pwvv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T08:59:09.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="aUWrbdCf1x6OQmmGOeCO" version="20.5.3" type="github">
   <diagram id="PWvh9ggtJIIBJPLl8T4h" name="第 1 页">
     <mxGraphModel dx="1559" dy="2302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="liVXFNQ5sXX95Kjzr_Q1-14" value="玩家不回复超时" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liVXFNQ5sXX95Kjzr_Q1-4" target="liVXFNQ5sXX95Kjzr_Q1-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="liVXFNQ5sXX95Kjzr_Q1-4" value="&lt;br&gt;stage:need_info&lt;br&gt;待玩家补充资料&lt;br&gt;lock_user :客服id&lt;br&gt;注意：回复内容写入超时时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="liVXFNQ5sXX95Kjzr_Q1-4" value="&lt;br&gt;stage:need_info&lt;br&gt;待玩家补充资料&lt;br&gt;lock_user :客服id&lt;br&gt;注意：添加新的回复记录，回复内容写入超时时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="liVXFNQ5sXX95Kjzr_Q1-6" value="&lt;br&gt;stage:finish&lt;br&gt;完成&lt;br&gt;lock_user :客服id&lt;br&gt;写入完成时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
